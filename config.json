@@ -1,0 +1,14 @@
+{
+    
+    "db":{
+        "host": "localhost",
+        "user": "root",
+        "password": ""
+    },
+    "file":{
+        "output" : "./CSV"
+    },
+    "database": ["dda_local", "healthfactr_local"]
+
+}
+  
