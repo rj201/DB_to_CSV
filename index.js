@@ -18,6 +18,7 @@ const connection = mysql.createConnection(config.db);
 
 
 // open the MySQL connection
+// testing for Branching -git flow
 connection.connect(error => {
   if (error) throw error;
 
